@@ -7,6 +7,7 @@ Simple movie database built on React
 
 ```
 npm install -g parcel@next
+npm install
 parcel  src/index.html
 ```
 
